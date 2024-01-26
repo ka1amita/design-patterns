@@ -1,6 +1,6 @@
 package prototypes.own.shapes;
 
-public class Shape implements Cloneable {
+public abstract class Shape implements Cloneable {
 
   public String color;
 
